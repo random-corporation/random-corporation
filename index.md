@@ -3,5 +3,5 @@
 
 ## Links to apps
 
-[Random App](randomapp.md)
+[Random App](randomapp.html)
 
