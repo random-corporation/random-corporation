@@ -1,5 +1,3 @@
-#Random Lists
-
 **Privacy Policy**
 
 Andli built the Random Lists app as an Ad Supported app. This SERVICE is provided by Andli at no cost and is intended for use as is.
