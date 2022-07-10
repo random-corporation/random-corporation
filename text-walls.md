@@ -1,5 +1,7 @@
 ##Text Walls
 
+Text Walls lets you curate pieces of inspirational text that you want to set as wallpaper.
+
 **Privacy Policy**
 
 Andli built the Text Walls app as an Ad Supported app. This SERVICE is provided by Andli at no cost and is intended for use as is.
