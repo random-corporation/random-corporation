@@ -1,4 +1,4 @@
-# Text Walls
+##Text Walls
 
 **Privacy Policy**
 
