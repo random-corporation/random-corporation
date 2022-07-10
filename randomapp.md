@@ -1,5 +1,4 @@
-# Random App
-
+## Random App
 
 Random App is an Android app that randomly picks an app on your phone.
 
