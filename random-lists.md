@@ -1,3 +1,6 @@
+##Random Lists
+Random Lists is an app that lets you organize all your choices into lists and easily pick a choice randomly.
+
 **Privacy Policy**
 
 Andli built the Random Lists app as an Ad Supported app. This SERVICE is provided by Andli at no cost and is intended for use as is.
