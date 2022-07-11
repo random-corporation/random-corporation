@@ -1,4 +1,4 @@
-##Text Walls
+## Text Walls
 
 Text Walls lets you curate pieces of inspirational text that you want to set as wallpaper.
 
