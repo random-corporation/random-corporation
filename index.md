@@ -1,12 +1,12 @@
 # Welcome to Random Apps
 ---
 
-## Links to apps
+## Privacy Policies
 
 [Random App](randomapp)
 
-[Random Number Generator](random-number-generator)
-
 [Random Lists](random-lists)
+
+[Random Number Generator](random-number-generator)
 
 [Text Walls](text-walls)
