@@ -1,4 +1,8 @@
-**Privacy Policy**
+**Random NUmber Generator**
+
+A simple and beautifully designed app for generating random numbers.
+
+**Random Number Generator Privacy Policy**
 
 Peakvalleytech built the Random Number Generator app as an Ad Supported app. This SERVICE is provided by Peakvalleytech at no cost and is intended for use as is.
 
