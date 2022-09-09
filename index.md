@@ -1,7 +1,5 @@
-# Welcome to Random Apps
+# Welcome to Random Corp's App Portfolio
 ---
-
-## Privacy Policies
 
 [Random App](randomapp)
 
@@ -10,6 +8,7 @@
 [Random Number Generator](random-number-generator)
 
 [Random YouTube](random-youtube-app)
+
 [Text Walls](text-walls)
 
 
