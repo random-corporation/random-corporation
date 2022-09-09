@@ -2,7 +2,7 @@
 
 Random YouTube is an android app for playing random videos from YouTube.
 
-**Privacy Policy**
+# Privacy Policy #
 
 Random Corp - The Random Company built the Random YouTube app as an Ad Supported app. This SERVICE is provided by Random Corp - The Random Company at no cost and is intended for use as is.
 
