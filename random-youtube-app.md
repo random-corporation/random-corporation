@@ -1,4 +1,4 @@
-## Random YouTube
+# Random YouTube
 
 Random YouTube is an android app for playing random videos from YouTube.
 
