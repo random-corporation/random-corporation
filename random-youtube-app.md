@@ -8,9 +8,9 @@ By downloading or using the app, these terms will automatically apply to you –
 
 Random Corp is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The Random Video app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Random Video app won’t work properly or at all.
+The app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Random Video app won’t work properly or at all.
 
-The app does use third-party services that declare their Terms and Conditions. By ackowledging and agreeing to our terms and conditions you hereby also acknowledge and agree to the terms and conditions set forth by the third-party services used by the Random Video app.  
+The app does use third-party services that declare their Terms and Conditions. By ackowledging and agreeing to our terms and conditions you hereby also acknowledge and agree to the terms and conditions set forth by the third-party services used by the app.  
 
 Link to Terms and Conditions of third-party service providers used by the app
 
@@ -41,23 +41,25 @@ These terms and conditions are effective as of 2023-12-21
 
 To provide you with the best experience, our app integrates with the YouTube API and is an essential component of the app. When you connect your YouTube account to our app, we may access, collect, and store certain information from your YouTube account, including:
 
-Information you authorize us to access:
+#### Information you authorize us to access
 
-Basic account information: Your YouTube username and profile picture.
-Public videos and playlists: Titles, descriptions, thumbnails, and viewing statistics of your public videos and playlists.
-Subscriptions: Channels you are subscribed to.
-Watch history: Videos you have watched.
-Information we collect automatically:
+- Basic account information: Your YouTube username and profile picture
+- Public videos and playlists: Titles, descriptions, and thumbnails
+- Subscriptions: Channels you are subscribed to
 
-API calls: Information about the specific API calls made, such as the request type, date and time, and response code.
-Device information: Your device type, operating system, and IP address.
-App usage data: Information about how you use our app, such as the features you access and the frequency of your use.
-We use this information to:
+#### Information we collect automatically
 
-Personalize your experience within our app.
-Recommend videos and playlists that may be of interest to you.
-Analyze your usage patterns to improve our app's features and functionality.
-Comply with applicable laws and regulations.
+- API calls: Information about the specific API calls made, such as the request type, date and time, and response code.
+- Device information: Your device type, operating system, and IP address.
+- App usage data: Information about how you use our app, such as the features you access and the frequency of your use.
+
+#### We use this information to
+
+- Personalize your experience within our app.
+- Recommend videos and playlists that may be of interest to you.
+- Analyze your usage patterns to improve our app's features and functionality.
+- Comply with applicable laws and regulations.
+
 We will never collect or store your YouTube login credentials.
 
 ### Your Choices
@@ -66,23 +68,23 @@ You can control the information we access and collect from your YouTube account 
 
 ### Data Storage and Security
 
-We store the information we collect securely on our servers. We take measures to protect your information from unauthorized access, use, or disclosure, including using industry-standard security measures such as encryption and firewalls.
-
+All data we collect from your YouTube account is for the sole purposes of proper integration with the third-party YouTube API. We do not store or process any personal information other than for the aforementioned purpose. 
+     
 ### Data sharing
 
 We may share your information with third-party service providers who assist us in providing the services offered by our app. These service providers are only authorized to use your information to perform services on our behalf and are required to protect your information.
 
 ### Retention
 
-We will retain your information for as long as necessary to provide you with the services offered by our app and to comply with applicable laws and regulations.
+We will retain any personal information for as long as necessary to provide you with the services offered by our app and to comply with applicable laws and regulations.
 
-### Your Rights
+### Data Deletion and Access
 
-You have the right to access, correct, or delete your information. You also have the right to object to the processing of your information or to request that we restrict the processing of your information. To exercise these rights, please contact us through the contact information provided in our app.
+You have the right to access, correct, or delete your information. You also have the right to object to the processing of your information or to request that we restrict the processing of your information. To delete or revoke Random Corp's access to your account, go to the security settings in your [Google account](https://security.google.com/settings).
 
 ## Privacy Policy ##
 
-Random Corp - The Random Company built the Random YouTube app as an Ad Supported app. This SERVICE is provided by Random Corp - The Random Company at no cost and is intended for use as is.
+Random Corp - The Random Company built the Random Video app as an Ad Supported app. This SERVICE is provided by Random Corp - The Random Company at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
